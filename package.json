@@ -1,0 +1,23 @@
+{
+  "name": "bears-team-29",
+  "version": "1.0.0",
+  "description": "Chingu Project by Bears Team 29",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chingu-voyage5/Bears-Team-29.git"
+  },
+  "keywords": [
+    "chingu",
+    "bears"
+  ],
+  "author": "Bears Team 29",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/chingu-voyage5/Bears-Team-29/issues"
+  },
+  "homepage": "https://github.com/chingu-voyage5/Bears-Team-29#readme"
+}
